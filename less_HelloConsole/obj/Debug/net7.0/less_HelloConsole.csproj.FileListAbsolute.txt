@@ -1,0 +1,15 @@
+C:\Users\Ivan\Desktop\Less1\less_HelloConsole\bin\Debug\net7.0\less_HelloConsole.exe
+C:\Users\Ivan\Desktop\Less1\less_HelloConsole\bin\Debug\net7.0\less_HelloConsole.deps.json
+C:\Users\Ivan\Desktop\Less1\less_HelloConsole\bin\Debug\net7.0\less_HelloConsole.runtimeconfig.json
+C:\Users\Ivan\Desktop\Less1\less_HelloConsole\bin\Debug\net7.0\less_HelloConsole.dll
+C:\Users\Ivan\Desktop\Less1\less_HelloConsole\bin\Debug\net7.0\less_HelloConsole.pdb
+C:\Users\Ivan\Desktop\Less1\less_HelloConsole\obj\Debug\net7.0\less_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\Less1\less_HelloConsole\obj\Debug\net7.0\less_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\Less1\less_HelloConsole\obj\Debug\net7.0\less_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\Less1\less_HelloConsole\obj\Debug\net7.0\less_HelloConsole.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\Less1\less_HelloConsole\obj\Debug\net7.0\less_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Less1\less_HelloConsole\obj\Debug\net7.0\less_HelloConsole.dll
+C:\Users\Ivan\Desktop\Less1\less_HelloConsole\obj\Debug\net7.0\refint\less_HelloConsole.dll
+C:\Users\Ivan\Desktop\Less1\less_HelloConsole\obj\Debug\net7.0\less_HelloConsole.pdb
+C:\Users\Ivan\Desktop\Less1\less_HelloConsole\obj\Debug\net7.0\less_HelloConsole.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\Less1\less_HelloConsole\obj\Debug\net7.0\ref\less_HelloConsole.dll
